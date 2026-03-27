@@ -4,8 +4,8 @@
 
 ---
 
-_Planning_
+Planning
 
-_Implementation_
+Implementation
 
-_Testing_
+Testing
