@@ -1,0 +1,11 @@
+# Electron Application
+
+**setting our first electron application**
+
+---
+
+_Planning_
+
+_Implementation_
+
+_Testing_
